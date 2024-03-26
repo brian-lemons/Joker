@@ -1,0 +1,10 @@
+.env
+pyproject.toml
+venv/
+__pycache__
+package-lock.json
+package.json
+.venv
+node_modules
+test.py 
+database.db
